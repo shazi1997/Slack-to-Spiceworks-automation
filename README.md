@@ -1,12 +1,15 @@
 # Slack-to-Spiceworks-Automation
 
 ## Project Overview
-As it is impractical for users to log into a ticketing system every time they have an issue I therefore built a IT helpdesk request form on Slack in which the users fills out and that automatically creates a ticket to Spiceworks Cloud via the Gmail API. This automation ensures all IT requests are captured with consistent metadata (like Asset Tags) rather than being lost in chat threads.
+As it is impractical for users to log into a ticketing system every time they have an issue, I therefore built a IT helpdesk request form on Slack in which the users fills out and that automatically creates a ticket to Spiceworks Cloud via the Gmail API. This automation ensures all IT requests are captured with consistent metadata (like Asset Tags) rather than being lost in chat threads.
 
 ## Technology Stack
 * **Slack Workflow Builder**: To create the user-facing intake form.
 * **Google OAuth2 / Gmail API**: To securely bridge Slack to our email-based ticketing system.
 * **Spiceworks Cloud**: The final destination where tickets are managed.
+
+## Slack IT request form
+I created an IT request form that users fill out whenever they encounter an issue, providing a description of the problem and the asset or laptop ID. I then linked this form to my Spiceworks email (help@shazisupport.on.spiceworks.com), so that each submission automatically creates a ticket in Spiceworks
 
 ![Slack Request Form](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/slack%20request%20form.jpg)
 
