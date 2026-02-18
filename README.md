@@ -18,3 +18,5 @@ As it is impractical for users to log into a ticketing system every time they ha
 
 ## Filling out the form
 After the user fills out this form, on spiceworks under ticket rules, I ensured that certain key phrases automatically set the ticket to high priority. These phrases include: emergency, critical, down or urgent.
+
+![Spiceworks Ticket Rules](spiceworks%20ticket%20rules.jpeg)
