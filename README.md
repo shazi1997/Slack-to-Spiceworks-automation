@@ -14,7 +14,7 @@ As it is impractical for users to log into a ticketing system every time they ha
 * **Zero-Code Integration**: Leveraged cloud connectors to build a reliable enterprise-grade workflow.
 
 
-![Slack Intake Form](slack%20intake%20form.jpeg)
+![Slack Request Form](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/slack%20request%20form.jpg)
 
 ## Filling out the form
 After the user fills out this form, on spiceworks under ticket rules, I ensured that certain key phrases automatically set the ticket to high priority. These phrases include: emergency, critical, down or urgent.
