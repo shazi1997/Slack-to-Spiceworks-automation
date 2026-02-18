@@ -9,7 +9,7 @@ As it is impractical for users to log into a ticketing system every time they en
 * **Spiceworks Cloud**: The final destination where tickets are managed.
 
 ## Slack IT request form
-I created an IT request form that users fill out whenever they encounter an issue, providing a description of the problem and the asset or laptop ID. I then linked this form to my Spiceworks email (help@shazisupport.on.spiceworks.com), so that each submission automatically creates a ticket in Spiceworks
+I created an IT request form using slacks workflow builder that users fill out whenever they encounter an issue, providing a description of the problem and the asset or laptop ID. I then linked this form to my Spiceworks email (help@shazisupport.on.spiceworks.com), so that each submission automatically creates a ticket in Spiceworks
 
 ![Slack Request Form](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/slack%20request%20form.jpg)
 
