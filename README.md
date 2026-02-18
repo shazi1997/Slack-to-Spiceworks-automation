@@ -1,7 +1,7 @@
 # Slack-to-Spiceworks-Automation
 
 ## Project Overview
-As it is impractical for users to log into a ticketing system every time they have an issue, I therefore built a IT helpdesk request form on Slack in which the users fills out and that automatically creates a ticket to Spiceworks Cloud via the Gmail API. This automation ensures all IT requests are captured with consistent metadata (like Asset Tags) rather than being lost in chat threads.
+As it is impractical for users to log into a ticketing system every time they encounter an issue, I therefore built a IT helpdesk request form on Slack in which the users fills out and that automatically creates a ticket to Spiceworks Cloud via the Gmail API. This automation ensures all IT requests are captured with consistent metadata (like Asset Tags) rather than being lost in chat threads.
 
 ## Technology Stack
 * **Slack Workflow Builder**: To create the user-facing intake form.
@@ -22,3 +22,9 @@ After the user fills out this form, on spiceworks under ticket rules, I ensured 
 As you can see the form is filled out with the word "Emergency" in the subject header, automatically making this a high priority ticket!
 
 ![Slack Request Form Filled Out](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/slack%20request%20form%20filled%20out!.jpg)
+
+## Result from filling out the form
+Immediately the ticket is shown as a high priority ticket
+
+![Spiceworks High Priority](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/spiceworks%20priority%20high.jpg)
+
