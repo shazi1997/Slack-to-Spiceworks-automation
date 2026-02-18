@@ -17,3 +17,8 @@ I created an IT request form that users fill out whenever they encounter an issu
 After the user fills out this form, on spiceworks under ticket rules, I ensured that certain key phrases automatically set the ticket to high priority. These phrases include: emergency, critical, down or urgent.
 
 ![Spiceworks Ticket Rules](spiceworks%20ticket%20rules.jpeg)
+
+## Filling out IT request form
+As you can see the form is filled out with the word "Emergency" in the subject header, automatically making this a high priority ticket!
+
+![Slack Request Form Filled Out](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/slack%20request%20form%20filled%20out!.jpg)
