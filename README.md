@@ -8,12 +8,6 @@ As it is impractical for users to log into a ticketing system every time they ha
 * **Google OAuth2 / Gmail API**: To securely bridge Slack to our email-based ticketing system.
 * **Spiceworks Cloud**: The final destination where tickets are managed.
 
-## Features
-* **Standardized Intake**: Forces users to provide an Asset Tag/Laptop ID before submitting.
-* **Automated Ticket Creation**: Instantly generates a Spiceworks ticket (e.g., Ticket #3) upon form submission.
-* **Zero-Code Integration**: Leveraged cloud connectors to build a reliable enterprise-grade workflow.
-
-
 ![Slack Request Form](https://github.com/shazi1997/Slack-to-Spiceworks-automation/raw/main/slack%20request%20form.jpg)
 
 ## Filling out the form
