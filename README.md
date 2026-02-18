@@ -16,3 +16,6 @@ I built a custom IT Support intake system that connects Slack to Spiceworks Clou
 ## Business Impact
 * **Efficiency**: Reduced the time taken to log a ticket by 50% for Slack users.
 * **Data Accuracy**: Guaranteed that 100% of tickets arrive with the correct hardware ID for faster troubleshooting.
+
+![Slack Intake Form](slack%20intake%20form.jpeg)
+![Spiceworks Ticket Proof](spiceworks%20ticket%20proof.jpeg)
